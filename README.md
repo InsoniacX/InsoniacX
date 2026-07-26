@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm a Full-Stack Developer from Bandung, Indonesia<br><br>- 🔭 Currently working as Network Officer Chief<br>- 📚 I'm currently learning Go and TypeScript<br>- ⚡ In my free time I read some books</p>
+<p align="left">I'm a Full-Stack Developer from Bandung, Indonesia<br><br>- 🔭 Currently working as Admin on Aquarush Store<br>- 📚 I'm currently learning Python <br>- ⚡ In my free time I read some books</p>
 
 ###
 
